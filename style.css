@@ -1,0 +1,27 @@
+    #logo {
+        margin: 0;
+        color: whitesmoke;
+        font-family: "fredoka one", sans-serif;
+        text-align: left;
+    }
+
+ body > header {
+    background-color: dodgerblue;
+    padding: 1px;
+    color: blue;
+    text-align: center;
+ }
+
+ input[type=submit] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  body > footer {
+    background-color: dodgerblue;
+    padding: 1px;
+    color: blue;
+    text-align: center;
+ }
